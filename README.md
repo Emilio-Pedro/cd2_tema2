@@ -208,7 +208,7 @@ Após o pré-processamento, o dataset passou a conter as seguintes colunas:
 ## 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Emilio-Pedro/cd2_tema2.git
 ```
 
 ---
