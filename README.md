@@ -73,7 +73,7 @@ git clone https://github.com/Emilio-Pedro/cd2_tema2.git
 ## 2. Instale as dependências
 
 ```bash
-python3 -m pip install pandas numpy scipy matplotlib scikit-learn
+python3 -m pip install pandas numpy scipy matplotlib scikit-learn folium ipython ipykernel
 ```
 
 ---
